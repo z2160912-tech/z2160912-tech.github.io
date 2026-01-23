@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zichen Zhang",
+    "section": "",
+    "text": "This is my personal website built with Quarto and hosted on GitHub Pages."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Zichen Zhang",
+    "section": "",
+    "text": "This is my personal website built with Quarto and hosted on GitHub Pages."
+  },
+  {
+    "objectID": "index.html#python-demo",
+    "href": "index.html#python-demo",
+    "title": "Zichen Zhang",
+    "section": "Python Demo",
+    "text": "Python Demo\nBelow is a simple Python example running inside Quarto.\nimport pandas as pd\ndata = { “Course”: [“AD599”, “AD571”, “AD632”], “Topic”: [“Python & SQL”, “Real Estate Analytics”, “Finance”], “Difficulty”: [4, 4, 5] }\ndf = pd.DataFrame(data) df"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]

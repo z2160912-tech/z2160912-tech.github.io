@@ -1,0 +1,25 @@
+---
+title: "Zichen Zhang"
+---
+
+## Welcome
+
+This is my personal website built with **Quarto** and hosted on **GitHub Pages**.
+
+---
+
+## Python Demo
+
+Below is a simple Python example running inside Quarto.
+
+```{python}
+import pandas as pd
+
+data = {
+    "Course": ["AD599", "AD571", "AD632"],
+    "Topic": ["Python & SQL", "Real Estate Analytics", "Finance"],
+    "Difficulty": [4, 4, 5]
+}
+
+df = pd.DataFrame(data)
+df
