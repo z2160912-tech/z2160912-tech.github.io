@@ -4,22 +4,32 @@ title: "Zichen Zhang"
 
 ## Welcome
 
-This is my personal website built with **Quarto** and hosted on **GitHub Pages**.
+Hi, I’m **Zichen Zhang**, a graduate student in **Applied Business Analytics** at **Boston University**.
+
+This website is built with **Quarto** and hosted on **GitHub Pages**, and it showcases my coursework, projects, and technical skills.
 
 ---
 
-## Python Demo
+## Coursework & Skills
 
-Below is a simple Python example running inside Quarto.
+- **AD599** – Python and SQL for Business Analytics  
+- **AD571** – Business Analytics Foundations  
+- **AD632** – Financial Concepts  
+
+**Skills**: Python, SQL, R, Data Analysis, Git, AWS, Quarto
+
+---
+
+## Example: Python Demo
 
 ```{python}
 import pandas as pd
 
 data = {
     "Course": ["AD599", "AD571", "AD632"],
-    "Topic": ["Python & SQL", "Real Estate Analytics", "Finance"],
+    "Topic": ["Python and SQL BA", "BA Foundations", "Finance"],
     "Difficulty": [4, 4, 5]
 }
 
-df = pd.DataFrame(data)
-df
+pd.DataFrame(data)
+

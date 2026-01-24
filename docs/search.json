@@ -4,21 +4,28 @@
     "href": "index.html",
     "title": "Zichen Zhang",
     "section": "",
-    "text": "This is my personal website built with Quarto and hosted on GitHub Pages."
+    "text": "Hi, I’m Zichen Zhang, a graduate student in Applied Business Analytics at Boston University.\nThis website is built with Quarto and hosted on GitHub Pages, and it showcases my coursework, projects, and technical skills."
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Zichen Zhang",
     "section": "",
-    "text": "This is my personal website built with Quarto and hosted on GitHub Pages."
+    "text": "Hi, I’m Zichen Zhang, a graduate student in Applied Business Analytics at Boston University.\nThis website is built with Quarto and hosted on GitHub Pages, and it showcases my coursework, projects, and technical skills."
   },
   {
-    "objectID": "index.html#python-demo",
-    "href": "index.html#python-demo",
+    "objectID": "index.html#coursework-skills",
+    "href": "index.html#coursework-skills",
     "title": "Zichen Zhang",
-    "section": "Python Demo",
-    "text": "Python Demo\nBelow is a simple Python example running inside Quarto.\nimport pandas as pd\ndata = { “Course”: [“AD599”, “AD571”, “AD632”], “Topic”: [“Python & SQL”, “Real Estate Analytics”, “Finance”], “Difficulty”: [4, 4, 5] }\ndf = pd.DataFrame(data) df"
+    "section": "Coursework & Skills",
+    "text": "Coursework & Skills\n\nAD599 – Python and SQL for Business Analytics\n\nAD571 – Business Analytics Foundations\n\nAD632 – Financial Concepts\n\nSkills: Python, SQL, R, Data Analysis, Git, AWS, Quarto"
+  },
+  {
+    "objectID": "index.html#example-python-demo",
+    "href": "index.html#example-python-demo",
+    "title": "Zichen Zhang",
+    "section": "Example: Python Demo",
+    "text": "Example: Python Demo\nimport pandas as pd\ndata = { “Course”: [“AD599”, “AD571”, “AD632”], “Topic”: [“Python and SQL BA”, “BA Foundations”, “Finance”], “Difficulty”: [4, 4, 5] }\npd.DataFrame(data)"
   },
   {
     "objectID": "about.html",
