@@ -2,34 +2,39 @@
 title: "Zichen Zhang"
 ---
 
-## Welcome
+# About Me
 
-Hi, I’m **Zichen Zhang**, a graduate student in **Applied Business Analytics** at **Boston University**.
+Hi, I’m **Zichen Zhang**, a graduate student in **Applied Business Analytics** at **Boston University Metropolitan College**.
 
-This website is built with **Quarto** and hosted on **GitHub Pages**, and it showcases my coursework, projects, and technical skills.
+I am interested in business analytics, cloud computing, data visualization, machine learning, and decision-making analytics. Through my coursework and projects, I have developed experience using Python, SQL, PySpark, AWS, GitHub, Quarto, and data visualization tools.
 
----
+This portfolio website showcases my academic projects, technical skills, and professional development.
 
-## Coursework & Skills
+## Coursework and Skills
 
-- **AD599** – Python and SQL for Business Analytics  
-- **AD571** – Business Analytics Foundations  
-- **AD632** – Financial Concepts  
+My academic background includes courses and projects related to:
 
-**Skills**: Python, SQL, R, Data Analysis, Git, AWS, Quarto
+- Business analytics
+- Cloud analytics
+- Data mining
+- Machine learning
+- Decision-making analytics
+- Data visualization
+- Web analytics
 
----
+## Technical Skills
 
-## Example: Python Demo
+- Python
+- SQL
+- R
+- PySpark
+- AWS EC2
+- Git and GitHub
+- Quarto
+- pandas
+- matplotlib
+- Data visualization
 
-```{python}
-import pandas as pd
+## Career Goals
 
-data = {
-    "Course": ["AD599", "AD571", "AD632"],
-    "Topic": ["Python and SQL BA", "BA Foundations", "Finance"],
-    "Difficulty": [4, 4, 5]
-}
-
-pd.DataFrame(data)
-
+My goal is to pursue opportunities in business analytics, data analytics, or cloud analytics. I hope to use data-driven methods to support business decision-making and communicate insights clearly to both technical and non-technical audiences.
