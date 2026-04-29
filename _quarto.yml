@@ -1,16 +1,18 @@
 project:
   type: website
   output-dir: docs
+
 website:
+  title: "Zichen Zhang"
   navbar:
     left:
-      - text: About You
-        href: about.qmd
-      - text: Projects
+      - text: "About You"
+        href: index.qmd
+      - text: "Projects"
         href: projects.qmd
-      - text: CV
+      - text: "CV"
         href: cv.qmd
-      - text: Contact
+      - text: "Contact"
         href: contact.qmd
 
 format:
@@ -18,6 +20,3 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
