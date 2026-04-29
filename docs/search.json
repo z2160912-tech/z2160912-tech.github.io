@@ -82,5 +82,40 @@
     "title": "About You",
     "section": "",
     "text": "My goal is to pursue opportunities in business analytics, data analytics, or cloud analytics. I hope to use data-driven methods to support business decision-making and communicate insights clearly to both technical and non-technical audiences."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can download my CV here:\nDownload Zichen Zhang CV\n\n\nI am a graduate student in Applied Business Analytics at Boston University Metropolitan College, with academic training in business analytics, data science, mathematics, cloud analytics, and machine learning.\nMy experience includes data analysis, database organization, spreadsheet-based reporting, MATLAB-based data preprocessing, Linux-based data collection, and applied analytics projects.\n\n\n\nBoston University, Metropolitan College\nM.S. in Applied Business Analytics\nBoston, MA\nExpected: December 2026\nNorth China University of Technology and Brunel University London\nB.S. in Mathematics for Data Science\nData Science and Big Data Technology Honorary Bachelor of Science Degree\nGraduated: July 2025\n\n\n\nData Analyst Intern — TSINO-TEK Beijing Co. Ltd.\nAugust 2024 – September 2024\n\nExtracted and reorganized raw production-line data from an SMT database for downstream data analysis.\nUsed MATLAB and Excel to preprocess production and dispatch data.\nCompared customer order demand with inventory data to identify mismatches and help prevent supply chain issues.\n\nFull-Time Software Front-end Engineer — Open Bayes\nJanuary 2024 – March 2024\n\nPracticed Java and programming problem-solving during onboarding.\nCollected and integrated large-scale model training data using Linux terminal tools.\nProcessed QA dataset files and documented data sources, formats, and processing steps.\n\n\n\n\nTesla ADAS Performance Analytics\nStudent Consultant — Boston University Open Avenues Foundation & Forensic Rock\n\nAnalyzed FCW and AEB system performance using test measurement data.\nBuilt visual analytics comparing trigger timing, distance, speed, TTC, acceleration, and braking behavior.\nEvaluated system robustness and identified performance limitations under offset pedestrian tests.\n\nRegional Data Collection and Ecological Investigation of Water Quality\n\nConducted field research at Miyun Water Reservoir with 500+ survey participants.\nVisualized survey and water-resource data using MATLAB and R.\nPresented findings to local government and received project awards."
+  },
+  {
+    "objectID": "cv.html#professional-summary",
+    "href": "cv.html#professional-summary",
+    "title": "CV",
+    "section": "",
+    "text": "I am a graduate student in Applied Business Analytics at Boston University Metropolitan College, with academic training in business analytics, data science, mathematics, cloud analytics, and machine learning.\nMy experience includes data analysis, database organization, spreadsheet-based reporting, MATLAB-based data preprocessing, Linux-based data collection, and applied analytics projects."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "Boston University, Metropolitan College\nM.S. in Applied Business Analytics\nBoston, MA\nExpected: December 2026\nNorth China University of Technology and Brunel University London\nB.S. in Mathematics for Data Science\nData Science and Big Data Technology Honorary Bachelor of Science Degree\nGraduated: July 2025"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "",
+    "text": "Data Analyst Intern — TSINO-TEK Beijing Co. Ltd.\nAugust 2024 – September 2024\n\nExtracted and reorganized raw production-line data from an SMT database for downstream data analysis.\nUsed MATLAB and Excel to preprocess production and dispatch data.\nCompared customer order demand with inventory data to identify mismatches and help prevent supply chain issues.\n\nFull-Time Software Front-end Engineer — Open Bayes\nJanuary 2024 – March 2024\n\nPracticed Java and programming problem-solving during onboarding.\nCollected and integrated large-scale model training data using Linux terminal tools.\nProcessed QA dataset files and documented data sources, formats, and processing steps."
+  },
+  {
+    "objectID": "cv.html#selected-projects",
+    "href": "cv.html#selected-projects",
+    "title": "CV",
+    "section": "",
+    "text": "Tesla ADAS Performance Analytics\nStudent Consultant — Boston University Open Avenues Foundation & Forensic Rock\n\nAnalyzed FCW and AEB system performance using test measurement data.\nBuilt visual analytics comparing trigger timing, distance, speed, TTC, acceleration, and braking behavior.\nEvaluated system robustness and identified performance limitations under offset pedestrian tests.\n\nRegional Data Collection and Ecological Investigation of Water Quality\n\nConducted field research at Miyun Water Reservoir with 500+ survey participants.\nVisualized survey and water-resource data using MATLAB and R.\nPresented findings to local government and received project awards."
   }
 ]

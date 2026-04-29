@@ -1,0 +1,58 @@
+---
+title: "CV"
+---
+
+# Curriculum Vitae
+
+You can download my CV here:
+
+[Download Zichen Zhang CV](Zichen_Zhang_CV.pdf)
+
+## Professional Summary
+
+I am a graduate student in **Applied Business Analytics** at **Boston University Metropolitan College**, with academic training in business analytics, data science, mathematics, cloud analytics, and machine learning.
+
+My experience includes data analysis, database organization, spreadsheet-based reporting, MATLAB-based data preprocessing, Linux-based data collection, and applied analytics projects.
+
+## Education
+
+**Boston University, Metropolitan College**  
+M.S. in Applied Business Analytics  
+Boston, MA  
+Expected: December 2026
+
+**North China University of Technology and Brunel University London**  
+B.S. in Mathematics for Data Science  
+Data Science and Big Data Technology Honorary Bachelor of Science Degree  
+Graduated: July 2025
+
+## Experience
+
+**Data Analyst Intern — TSINO-TEK Beijing Co. Ltd.**  
+August 2024 – September 2024
+
+- Extracted and reorganized raw production-line data from an SMT database for downstream data analysis.
+- Used MATLAB and Excel to preprocess production and dispatch data.
+- Compared customer order demand with inventory data to identify mismatches and help prevent supply chain issues.
+
+**Full-Time Software Front-end Engineer — Open Bayes**  
+January 2024 – March 2024
+
+- Practiced Java and programming problem-solving during onboarding.
+- Collected and integrated large-scale model training data using Linux terminal tools.
+- Processed QA dataset files and documented data sources, formats, and processing steps.
+
+## Selected Projects
+
+**Tesla ADAS Performance Analytics**  
+Student Consultant — Boston University Open Avenues Foundation & Forensic Rock
+
+- Analyzed FCW and AEB system performance using test measurement data.
+- Built visual analytics comparing trigger timing, distance, speed, TTC, acceleration, and braking behavior.
+- Evaluated system robustness and identified performance limitations under offset pedestrian tests.
+
+**Regional Data Collection and Ecological Investigation of Water Quality**
+
+- Conducted field research at Miyun Water Reservoir with 500+ survey participants.
+- Visualized survey and water-resource data using MATLAB and R.
+- Presented findings to local government and received project awards.
