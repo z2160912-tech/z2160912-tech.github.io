@@ -2,12 +2,16 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "lab"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: About You
+        href: about.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Contact
+        href: contact.qmd
 
 format:
   html:

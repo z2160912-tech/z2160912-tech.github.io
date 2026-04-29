@@ -1,0 +1,82 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+## Remote Job Trends Across Industries
+
+This project examined whether remote jobs were increasing or decreasing across industries in 2024 using the Lightcast job postings dataset. The analysis compared the share of job postings labeled as remote across major industries from May to September 2024.
+
+Instead of focusing only on total job posting volume, the project measured the percentage of remote postings within each industry. This made it possible to compare remote hiring trends across industries of different sizes.
+
+**Research Question:**  
+Are remote jobs increasing or decreasing across industries?
+
+**Key Findings:**
+
+- Remote job trends did not move in one uniform direction across industries.
+- Some industries showed an increase in remote job share between May and September 2024.
+- General Medical and Surgical Hospitals, Unclassified Industry, and All Other Professional, Scientific, and Technical Services had some of the strongest increases.
+- Several computer-related industries showed declines in remote job share, including Custom Computer Programming Services, Computer Systems Design Services, and Other Computer Related Services.
+- The results suggest that remote-work opportunities should be understood as industry-specific rather than as one general labor-market trend.
+
+**Tools Used:**
+
+- Python
+- pandas
+- matplotlib
+- Quarto
+- GitHub Pages
+
+**Skills Demonstrated:**
+
+- Data cleaning
+- Feature classification
+- Industry-level trend analysis
+- Time-series comparison
+- Data visualization
+- Professional web reporting
+
+---
+
+## Cloud Analytics and Machine Learning on Scale
+
+This project applied machine learning techniques in a cloud computing environment. The work included feature engineering, model training, and model evaluation using scalable tools.
+
+**Tools Used:**
+
+- AWS EC2
+- PySpark
+- Python
+- Quarto
+- GitHub
+
+**Skills Demonstrated:**
+
+- Cloud-based analytics workflow
+- Scalable machine learning
+- Regression modeling
+- Feature importance analysis
+- Technical reporting
+
+---
+
+## Microbrewery Business Decision Analysis
+
+This team project evaluated financial and strategic decisions for a proposed microbrewery. The analysis included break-even analysis, sensitivity analysis, risk analysis, and optimization analysis.
+
+**Tools Used:**
+
+- Excel
+- Financial modeling
+- Business analytics frameworks
+- Presentation design
+
+**Skills Demonstrated:**
+
+- Break-even analysis
+- Sensitivity analysis
+- Risk analysis
+- Business decision-making
+- Strategic communication

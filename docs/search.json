@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This project examined whether remote jobs were increasing or decreasing across industries in 2024 using the Lightcast job postings dataset. The analysis compared the share of job postings labeled as remote across major industries from May to September 2024.\nInstead of focusing only on total job posting volume, the project measured the percentage of remote postings within each industry. This made it possible to compare remote hiring trends across industries of different sizes.\nResearch Question:\nAre remote jobs increasing or decreasing across industries?\nKey Findings:\n\nRemote job trends did not move in one uniform direction across industries.\nSome industries showed an increase in remote job share between May and September 2024.\nGeneral Medical and Surgical Hospitals, Unclassified Industry, and All Other Professional, Scientific, and Technical Services had some of the strongest increases.\nSeveral computer-related industries showed declines in remote job share, including Custom Computer Programming Services, Computer Systems Design Services, and Other Computer Related Services.\nThe results suggest that remote-work opportunities should be understood as industry-specific rather than as one general labor-market trend.\n\nTools Used:\n\nPython\npandas\nmatplotlib\nQuarto\nGitHub Pages\n\nSkills Demonstrated:\n\nData cleaning\nFeature classification\nIndustry-level trend analysis\nTime-series comparison\nData visualization\nProfessional web reporting\n\n\n\n\n\nThis project applied machine learning techniques in a cloud computing environment. The work included feature engineering, model training, and model evaluation using scalable tools.\nTools Used:\n\nAWS EC2\nPySpark\nPython\nQuarto\nGitHub\n\nSkills Demonstrated:\n\nCloud-based analytics workflow\nScalable machine learning\nRegression modeling\nFeature importance analysis\nTechnical reporting\n\n\n\n\n\nThis team project evaluated financial and strategic decisions for a proposed microbrewery. The analysis included break-even analysis, sensitivity analysis, risk analysis, and optimization analysis.\nTools Used:\n\nExcel\nFinancial modeling\nBusiness analytics frameworks\nPresentation design\n\nSkills Demonstrated:\n\nBreak-even analysis\nSensitivity analysis\nRisk analysis\nBusiness decision-making\nStrategic communication"
+  },
+  {
+    "objectID": "projects.html#remote-job-trends-across-industries",
+    "href": "projects.html#remote-job-trends-across-industries",
+    "title": "Projects",
+    "section": "",
+    "text": "This project examined whether remote jobs were increasing or decreasing across industries in 2024 using the Lightcast job postings dataset. The analysis compared the share of job postings labeled as remote across major industries from May to September 2024.\nInstead of focusing only on total job posting volume, the project measured the percentage of remote postings within each industry. This made it possible to compare remote hiring trends across industries of different sizes.\nResearch Question:\nAre remote jobs increasing or decreasing across industries?\nKey Findings:\n\nRemote job trends did not move in one uniform direction across industries.\nSome industries showed an increase in remote job share between May and September 2024.\nGeneral Medical and Surgical Hospitals, Unclassified Industry, and All Other Professional, Scientific, and Technical Services had some of the strongest increases.\nSeveral computer-related industries showed declines in remote job share, including Custom Computer Programming Services, Computer Systems Design Services, and Other Computer Related Services.\nThe results suggest that remote-work opportunities should be understood as industry-specific rather than as one general labor-market trend.\n\nTools Used:\n\nPython\npandas\nmatplotlib\nQuarto\nGitHub Pages\n\nSkills Demonstrated:\n\nData cleaning\nFeature classification\nIndustry-level trend analysis\nTime-series comparison\nData visualization\nProfessional web reporting"
+  },
+  {
+    "objectID": "projects.html#cloud-analytics-and-machine-learning-on-scale",
+    "href": "projects.html#cloud-analytics-and-machine-learning-on-scale",
+    "title": "Projects",
+    "section": "",
+    "text": "This project applied machine learning techniques in a cloud computing environment. The work included feature engineering, model training, and model evaluation using scalable tools.\nTools Used:\n\nAWS EC2\nPySpark\nPython\nQuarto\nGitHub\n\nSkills Demonstrated:\n\nCloud-based analytics workflow\nScalable machine learning\nRegression modeling\nFeature importance analysis\nTechnical reporting"
+  },
+  {
+    "objectID": "projects.html#microbrewery-business-decision-analysis",
+    "href": "projects.html#microbrewery-business-decision-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "This team project evaluated financial and strategic decisions for a proposed microbrewery. The analysis included break-even analysis, sensitivity analysis, risk analysis, and optimization analysis.\nTools Used:\n\nExcel\nFinancial modeling\nBusiness analytics frameworks\nPresentation design\n\nSkills Demonstrated:\n\nBreak-even analysis\nSensitivity analysis\nRisk analysis\nBusiness decision-making\nStrategic communication"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Zichen Zhang",
