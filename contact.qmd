@@ -1,0 +1,25 @@
+---
+title: "Contact"
+---
+
+# Contact
+
+I am open to networking, academic collaboration, and professional opportunities in **business analytics, data analytics, cloud analytics, and machine learning**.
+
+Please feel free to contact me if you are interested in my academic projects, technical skills, or potential collaboration opportunities.
+
+## Contact Information
+
+- **Email:** z2160912@bu.edu
+- **GitHub:** [z2160912-tech](https://github.com/z2160912-tech)
+- **Portfolio Website:** [https://z2160912-tech.github.io/](https://z2160912-tech.github.io/)
+
+## Areas of Interest
+
+- Business analytics
+- Data analytics
+- Cloud analytics
+- Machine learning
+- Data visualization
+- Decision-making analytics
+- Web analytics
